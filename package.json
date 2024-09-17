@@ -1,0 +1,16 @@
+{
+  "name": "mfa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Revolution-Hacks/mfa.git",
+  "author": "#",
+  "license": "MIT",
+  "dependencies": {
+    "qs": "^6.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.5",
+    "vercel": "^37.4.2"
+  },
+  "type": "module"
+}
